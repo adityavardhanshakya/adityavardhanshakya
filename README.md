@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m currently learning **DevOps, AWS, Azure**
+- 🔭 I’m currently learning **DevOps, AWS, Machine Learning**
 
 - 💬 Ask me about **Python , Cloud Computing**
 
