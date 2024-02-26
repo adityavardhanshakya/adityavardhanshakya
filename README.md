@@ -1,6 +1,6 @@
 [![MasterHead](https://rishavanand.github.io/static/images/greetings.gif)](https://adityavardhanshakya.io)
 <h1 align="center">Hi 👋, I'm Aditya Vardhan</h1>
-<h3 align="center">A passionate Cloud Engineer from India.</h3>
+<h3 align="center">A passionate Machine Learning Engineer from India.</h3>
 
 
 <img align="right" alt="Coding" width="400" height="300" src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif">
