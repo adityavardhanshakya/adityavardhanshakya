@@ -1,9 +1,3 @@
-[![MasterHead](https://rishavanand.github.io/static/images/greetings.gif)](https://adityavardhanshakya.io)
-
-<div align="center">
-  
-
-[![life as a developer.](https://raw.githubusercontent.com/ng-model/ng-model/master/workingHard.gif)](https://manojmaduri.info)
 
 <h1 align="center">Hi 👋, I'm Aditya Vardhan</h1>
 <h3 align="center">PhD Researcher in Computer Science | Swarm Intelligence | Machine Learning | Energy-Efficient IoT Systems</h3>
