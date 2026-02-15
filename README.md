@@ -1,11 +1,13 @@
 [![MasterHead](https://rishavanand.github.io/static/images/greetings.gif)](https://adityavardhanshakya.io)
 
+<div align="center">
+  
+
+[![life as a developer.](https://raw.githubusercontent.com/ng-model/ng-model/master/workingHard.gif)](https://manojmaduri.info)
+
 <h1 align="center">Hi 👋, I'm Aditya Vardhan</h1>
 <h3 align="center">PhD Researcher in Computer Science | Swarm Intelligence | Machine Learning | Energy-Efficient IoT Systems</h3>
 
-<img align="right" alt="Coding" width="400" height="300" src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif">
-
----
 
 ### 👨‍💻 About Me
 
@@ -101,9 +103,6 @@
 
 <h3 align="left">📈 GitHub Analytics:</h3>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=adityavardhanshakya&show_icons=true&locale=en" />
-</p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityavardhanshakya" />
